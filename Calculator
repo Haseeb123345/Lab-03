@@ -1,4 +1,14 @@
 Console.WriteLine("Name: Muhammad Haseeb");
 Console.WriteLine("Roll No: 24-ST-090");
+Multiplication
+ Division
+int a = 10, b = 2;  
+Console.WriteLine("Quotient: " + (a / b));
+
+int a = 6, b = 3;  
+Console.WriteLine("Product: " + (a * b));
+Multiplication
+
 int a = 10, b = 4;  
 Console.WriteLine("Difference: " + (a - b));
+Subtration

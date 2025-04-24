@@ -1,2 +1,4 @@
 Console.WriteLine("Name: Muhammad Haseeb");
 Console.WriteLine("Roll No: 24-ST-090");
+int a = 10, b = 4;  
+Console.WriteLine("Difference: " + (a - b));

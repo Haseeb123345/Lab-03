@@ -1,2 +1,4 @@
 Console.WriteLine("Name: Muhammad Haseeb");
 Console.WriteLine("Roll No: 24-ST-090");
+int a = 6, b = 3;  
+Console.WriteLine("Product: " + (a * b));
